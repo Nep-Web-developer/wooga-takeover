@@ -1,1 +1,1 @@
-# wooga-takeover
+# wooga-subdomaintakeover
